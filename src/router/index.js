@@ -30,6 +30,11 @@ const routes = [
     path: '/confident',
     name: 'Confident',
     component: () => import('../views/Confident.vue')
+  },
+  {
+    path: '/auth',
+    name: 'Authorization',
+    component: () => import('../views/Authorization.vue')
   }
 ]
 

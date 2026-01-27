@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer">
+  <footer class="footer mt4">
     <div class="footer-container">
       <div class="footer-top">
         <div class="footer-column">
@@ -55,7 +55,7 @@
 
       <div class="footer-copyrights">
         <div class="footer-copyrights__copyright">© url-name 2025</div>
-        <div class="footer-copyrights__copyright">Create by DIVA</div>
+        <div class="footer-copyrights__copyright">Create by <b>DIVA</b></div>
       </div>
     </div>
   </footer>
@@ -92,6 +92,10 @@ export default {
 
 .mt2{
   margin-top: 2rem;
+}
+
+.mt4{
+  margin-top: 4rem;
 }
 .footer {
   background-image: url('../views/images/Footer.jpg');
@@ -527,13 +531,4 @@ export default {
     font-size: 0.75rem;
   }
 }
-
-/* Убираем дублирующиеся стили */
-/* Удалите это если оно уже есть в основном CSS: */
-/* .footer-info .footer-info__contacts img {
-  max-width: 250px;
-  width: 100%;
-  height: auto;
-  transition: max-width 0.3s ease;
-} */
 </style>

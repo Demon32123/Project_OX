@@ -13,7 +13,7 @@
             >
           </div>
           
-          <p class="hero-description">
+          <p class="hero-description p">
             Моя задача - помочь Вас прийти к добрым отношениям с собой и другими 
             без тревог и ограничений, без вины и стыда
           </p>
@@ -23,16 +23,16 @@
           </button>
           
           <div class="bottom-certifications mt2">
-            <div class="bottom-cert-item">&#9888; oxana_hudyakova_psy</div>
-            <div class="bottom-cert-item">&#9888; +7 (961) 311-93-70</div>
-            <div class="bottom-cert-item">&#9888; Shaslivaya_shzenchina</div>
+            <div class="bottom-cert-item p">&#9888; oxana_hudyakova_psy</div>
+            <div class="bottom-cert-item p">&#9888; +7 (961) 311-93-70</div>
+            <div class="bottom-cert-item p">&#9888; Shaslivaya_shzenchina</div>
           </div>
         </div>
         
         <div class="hero-image">
           <div class="top-certifications">
-            <div class="top-cert-item">Сертифицированный расстановщик</div>
-            <div class="top-cert-item">EMDR - терапевт</div>
+            <div class="top-cert-item p">Сертифицированный расстановщик</div>
+            <div class="top-cert-item p">EMDR - терапевт</div>
           </div>
           
           <div class="image-container">
@@ -50,8 +50,8 @@
       <div class="about block">
         <div class="about block__item">
           <div class="about block__item__content">
-            <h3 class="h3">Обо мне</h3>
-            <p>Работаю как в долгосрочной терапии для глубоких личных изменений, так и в краткосрочном консультировании, где за несколько сессий помогаю решить конкретный запрос.</p>
+            <h3 class="section-title">Обо мне</h3>
+            <p class="p">Работаю как в долгосрочной терапии для глубоких личных изменений, так и в краткосрочном консультировании, где за несколько сессий помогаю решить конкретный запрос.</p>
           </div>
         </div>
         
@@ -62,35 +62,35 @@
               alt="За 17 лет"
               class="about block__item__img"
             >
-            <p class="ta">Специализируюсь на работе с тревожными расстройствами, паническими атаками и эмоциональным выгоранием.</p>
+            <p class="ta p">Специализируюсь на работе с тревожными расстройствами, паническими атаками и эмоциональным выгоранием.</p>
           </div>
         </div>
         
         <div class="about block__item bg4">
           <div class="about block__item__content">
             <h3 class="h3">Более 10 лет</h3>
-            <p>Веду частную практику, разработала тренинговые программы, провожу индивидуальные консультации и терапию.</p>
+            <p class="p">Веду частную практику, разработала тренинговые программы, провожу индивидуальные консультации и терапию.</p>
           </div>
         </div>
         
         <div class="about block__item bg4">
           <div class="about block__item__content">
             <h3 class="h3">Регулярно</h3>
-            <p>Прохожу личную терапию, участвую в супервизии и супервизорских группах.</p>
+            <p class="p">Прохожу личную терапию, участвую в супервизии и супервизорских группах.</p>
           </div>
         </div>
         
         <div class="about block__item bg4">
           <div class="about block__item__content">
             <h3 class="h3">Регулярно продолжаю </h3>
-            <p>Обучение психотерапии в различных модальностях и направлениях.</p>
+            <p class="p">Обучение психотерапии в различных модальностях и направлениях.</p>
           </div>
         </div>
         
         <div class="about block__item bg4">
           <div class="about block__item__content">
             <h3 class="h3">Мужчины и женщины</h3>
-            <p>Я работаю с разными людьми - домохозяйками, молодыми и взрослыми. С теми, кто в отношениях, одинокими, на грани развода и т.д</p>
+            <p class="p">Я работаю с разными людьми - домохозяйками, молодыми и взрослыми. С теми, кто в отношениях, одинокими, на грани развода и т.д</p>
           </div>
         </div>
       </div>
@@ -158,35 +158,35 @@
         <div class="work-area block__item bg4" style="display: flex; flex-direction: column;">
           <div class="work-area block__item__content" style="flex-grow: 1; display: flex; flex-direction: column;">
             <h3 class="h3">Кризисные ситуации в жизни</h3>
-            <p style="margin-top: auto;">Веду частную практику, разработала тренинговые программы, провожу индивидуальные консультации и терапию.</p>
+            <p style="margin-top: auto;" class="p">Веду частную практику, разработала тренинговые программы, провожу индивидуальные консультации и терапию.</p>
           </div>
         </div>
         
         <div class="work-area block__item bg4" style="display: flex; flex-direction: column;">
           <div class="work-area block__item__content" style="flex-grow: 1; display: flex; flex-direction: column;">
             <h3 class="h3">Мужско-женские отношения</h3>
-            <p style="margin-top: auto;">Прохожу личную терапию, участвую в супервизии и супервизорских группах.</p>
+            <p style="margin-top: auto;" class="p">Прохожу личную терапию, участвую в супервизии и супервизорских группах.</p>
           </div>
         </div>
         
         <div class="work-area block__item bg4" style="display: flex; flex-direction: column;">
           <div class="work-area block__item__content" style="flex-grow: 1; display: flex; flex-direction: column;">
             <h3 class="h3">Травматический опыт</h3>
-            <p style="margin-top: auto;">Незавершённые, тяжёлые травматичные ситуации, воспоминания, мешающие сегодняшней жизни</p>
+            <p style="margin-top: auto;" class="p">Незавершённые, тяжёлые травматичные ситуации, воспоминания, мешающие сегодняшней жизни</p>
           </div>
         </div>
         
         <div class="work-area block__item bg4" style="display: flex; flex-direction: column;">
           <div class="work-area block__item__content" style="flex-grow: 1; display: flex; flex-direction: column;">
             <h3 class="h3">Психосоматика</h3>
-            <p style="margin-top: auto;">Любые психосоматические симптомы.</p>
+            <p style="margin-top: auto;" class="p">Любые психосоматические симптомы.</p>
           </div>
         </div>
         
         <div class="work-area block__item bg4" style="display: flex; flex-direction: column">
           <div class="work-area block__item__content" style="flex-grow: 1; display: flex; flex-direction: column;">
             <h3 class="h3">Работа с состояниями/<br>психологическими нарушениями</h3>
-            <p style="margin-top: auto;">Панические атаки, тревожность, внутренние конфликты, эмоциональная нестабильность, депрессии, страхи, навязчивые мысли, раздражительность, неуверенность в себе, самоценность, негативные установки и убеждения</p>
+            <p style="margin-top: auto;" class="p">Панические атаки, тревожность, внутренние конфликты, эмоциональная нестабильность, депрессии, страхи, навязчивые мысли, раздражительность, неуверенность в себе, самоценность, негативные установки и убеждения</p>
           </div>
         </div>
         
@@ -218,7 +218,7 @@
             </p>
           </div>
           <div class="principles-block">
-            <p class="p">
+            <p class="p" style="width:95%;">
               Совместная работа с каждым из вас — это встреча с уникальным живым человеком, где важно доверие, поддержка и доброжелательное внимание.
             </p>
           </div>
@@ -227,10 +227,10 @@
     </section>
 
     <section class="part-services mw14 mt3">
-      <div class="part-services__head">
+      <div class="flex-for-title">
           <h1 class="section-title">Услуги</h1>
           <p 
-              class="part-services__head__link"
+              class="part-services__head__link p fw500"
               @click="goToServices"
           >
               Посмотреть все услуги &#10132
@@ -265,17 +265,17 @@
     <section class="format-work mw16 mt3">
       <div class="format-work-panel">
         <div class="format-work-content">
-          <div class="format-work-block" style="width: 30%; padding: 0.5rem 0;">
+          <div class="format-work-block" style="width: 35%; padding: 0.5rem 0;">
             <div>
               <h4 class="section-title">Формат работы</h4>
               <div class="format-work-info mt3">
                 <div>
-                  <p>Я работаю очно</p>
-                  <p class="mt05">И онлайн по всему Миру</p>
+                  <p class="p">Я работаю очно</p>
+                  <p class="mt05 p">И онлайн по всему Миру</p>
                 </div>
                 <div>
-                  <p>г. Таганрог </p>
-                  <p class="mt05">Zoom, Skype.</p>
+                  <p style="color: #30241980;" class="p">г. Таганрог </p>
+                  <p class=" p mt05" style="color: #30241980;">Zoom, Skype.</p>
                 </div>
               </div>
             </div>
@@ -284,7 +284,7 @@
                 Правила сеттинга<br>
                 и условия совместной работы
               </p>
-              <a class="format-work-link" href="">Смотрите здесь</a>
+              <a class="format-work-link p" href="/rools">Смотрите здесь</a>
             </div>
           </div>
           <div class="format-work-block">
@@ -295,7 +295,7 @@
             </p>
             <p class="p fw600">
               1–2 раза в неделю<br>
-              по 60 минут в постоянное время            </p>
+              по 60 минут в постоянное время</p>
             <p class="p fw500">
               <b>Но!</b> Я верю в энергию взрослых людей и то, что терапия живая, когда опирается на потребность в контакте, без искусственного насаждения режима встреч. Поэтому по частоте встреч            </p>
             <p class="p fw600">
@@ -315,19 +315,134 @@
       </div>
     </section>
 
+    <section class="free-practice mw14 mt3">
+      <div class="flex-for-title">
+        <h1 class="section-title">
+          Мои <b>бесплатные</b><br>
+          медиативные практики
+        </h1>
+        <img src="./images/icons/get-it-now.svg" class="get-it-now-img" alt="Можно получить уже сейчас">
+      </div>
+      <div class="flex-free-practice">
+        <div class="free-practice-card">
+          <div class="free-practice-card__text">
+            <div class="free-practice-card__text--title-block">
+              <p class="additional-text">Практика</p>
+              <h1 class="free-practice-card__text--title">
+                "РАСКРЫТИЕ<br> 
+                ЖЕНСТВЕННОСТИ"
+              </h1>
+            </div>
+            <img src="./images/icons/practice-help.svg" alt="Практика поможет" class="mt1">
+            <ul class="free-practice-card__text--general-text">
+              <li>
+                <p class="p">
+                  Раскрыть свою женственность,<br>
+                  чувственность и женское начало
+                </p>
+              </li>               
+              <li>
+                <p class="p">
+                  Наполнить себя ресурсным состоянием
+                </p>
+              </li>               
+              <li>
+                <p class="p">
+                  Разовьете любовь к себе
+                </p>
+              </li>  
+              <li>
+                <p class="p">
+                  Принять и полюбить свою уникальность
+                </p>
+              </li>  
+              <li>
+                <p class="p">
+                  Раскрыть лучшую версию себя
+                </p>
+              </li>  
+              <li>
+                <p class="p">
+                  Наполнить себя ресурсным состоянием
+                </p>
+              </li>            
+            </ul>
+          </div>
+          <div class="free-practice-card__button">
+            <button class="button-card mt3 p">Записаться</button>
+          </div>
+        </div>        
+        <div class="free-practice-card">
+          <div class="free-practice-card__text">
+            <div class="free-practice-card__text--title">
+              <p class="additional-text">Практика</p>
+              <h1 class="free-practice-card__text--title">
+                "ВСТРЕЧА С ВНУТРЕННИМ <br>РЕБЕНКОМ"
+              </h1>
+            </div>
+            <img src="./images/icons/practice-help.svg" alt="Практика поможет" class="mt1">
+            <ul class="free-practice-card__text--general-text">
+              <li>
+                <p class="p">
+                  Встретиться со своим внутренним ребёнком
+                </p>
+              </li>               
+              <li>
+                <p class="p">
+                  Наладить контакт с «ребенком», сидящим внутри вас.
+                </p>
+              </li>               
+              <li>
+                <p class="p">
+                  Достичь внутреннего единства и целостности
+                </p>
+              </li>            
+            </ul>
+          </div>
+          <div class="free-practice-card__button">
+            <button class="button-card mt3 p">Записаться</button>
+          </div>
+        </div>
+      </div>
+      <div class="button-show-all mt1">
+        <button class="button-show-all__button p">Показать все</button>
+      </div>
+    </section>
+
     <section class="my-principles-section mw16 mt3">
       <div class="my-principles-panel">
         <div class="principles-content">
           <div class="principles-block">
-            <h4 class="h4">Мой основной принцип — гибкость.</h4>
-            <p class="p">
-              Для меня важно придерживаться высоких стандартов практики и применять научно доказанные методы в работе с вами.
+            <p class="p fw500">
+              Больше интересного<br>
+              у меня в социальных сетях
             </p>
           </div>
           <div class="principles-block">
-            <p class="p">
-              Совместная работа с каждым из вас — это встреча с уникальным живым человеком, где важно доверие, поддержка и доброжелательное внимание.
-            </p>
+            <div class="principles-block-flex">
+              <p class="p fw500">
+              +7 (961) 311-93-70
+              </p>
+              <p class="p fw500">
+                &#10095
+              </p>
+            </div>
+            <div class="principles-block-flex">
+              <p class="p fw500">
+              oxana_hudyakova_psy 
+              </p>
+              <p class="p fw500">
+                &#10095
+              </p>
+            </div>
+            <div class="principles-block-flex">
+              <p class="p fw500">
+              @Shaslivaya_shzenchina
+              </p>
+              <p class="p fw500">
+                &#10095
+              </p>
+            </div>
           </div>
         </div>
       </div>
@@ -411,7 +526,7 @@ export default {
 .p{
   font-family: "Montserrat";
   color: #312011;
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.6;
 }
 
@@ -469,7 +584,7 @@ export default {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   color: #312011;
-  font-size: 1.8rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
 }
 
@@ -522,7 +637,7 @@ export default {
 }
 
 .hero-description {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.6;
   color: #312011;
   margin-bottom: 2.5rem;
@@ -635,7 +750,7 @@ export default {
 .block__item__content {
   font-family: "Montserrat";
   color: #312011;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 400;
 }
 
@@ -694,34 +809,39 @@ export default {
 .principles-block {
   flex: 1;
   max-width: 35%;
-}
-
-.part-section{
   display: flex;
   flex-direction: column;
-  
+  justify-content: center;
 }
 
-.part-services__head{
+.principles-block-flex{
+  display: flex;
+  justify-content: space-between;
+  max-width: 80%;
+}
+
+.flex-for-title{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: #312011;
-  font-weight: 500;
-  font-family: "Montserrat";
 }
 
 .part-services__card__head{
-  display: flex;  justify-content: space-between;
+  display: flex;  
+  justify-content: space-between;
   align-items: center;
   color: #312011;
   font-weight: 500;
   font-family: 'Playfair Display', serif;
 }
 
-
+.part-services__head__link{
+    transition: all 0.3s ease;
+}
 .part-services__head__link:hover{
   cursor: pointer;
+  color: #8B7355;
+  transform: translateX(5px);
 }
 
 .part-services.block__item{
@@ -752,12 +872,11 @@ export default {
 
 .format-work-panel {
   background-image: url('./images/format-work-bg.png');
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-position: center center;
   background-repeat: no-repeat;
   border-radius: 24px;
   overflow: hidden;
-  height: 600px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -777,7 +896,7 @@ export default {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 15px;
+  gap: 10px;
 }
 
 .format-work-img{
@@ -791,6 +910,81 @@ export default {
 
 .format-work-link{
   color: #312011;
+}
+
+.flex-free-practice{
+  display: flex;
+  margin: 0 auto;
+  gap: 1rem;
+}
+
+.free-practice-card{
+  background-color: #FFF5E0;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+  border-radius: 24px;
+}
+
+.additional-text{
+  color: #988D7C;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.free-practice-card__text--title{
+  font-family: 'Playfair Display', serif;
+  font-weight: 500;
+  font-size: 34px;
+}
+
+.free-practice-card__text--general-text{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.free-practice-card__button{
+  width: 100%;
+}
+
+.button-card{
+  width: 100%;
+  padding: 1rem 0;
+  border-radius: 12px;
+  border: none;
+  outline: none;
+  background-color: #53402E;
+  color: #FFFEFD;
+  transition: all 0.3s ease;
+}
+
+.button-card:hover{
+  cursor: pointer;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(83, 64, 46, 0.3);
+}
+
+.button-show-all{
+  width: 100%;
+}
+
+.button-show-all__button{
+  width: 100%;
+  padding: 1rem 0;
+  outline: none;
+  background-color: white;
+  border: 1px solid #53402E;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.button-show-all__button:hover{
+  cursor: pointer;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(83, 64, 46, 0.3);
 }
 
 @media (max-width: 1200px) {

@@ -195,7 +195,6 @@ export default {
 }
 
 .button-write-me:hover {
-  background: #8B7355;
   transform: translateY(-2px);
 }
 

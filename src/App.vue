@@ -1,16 +1,13 @@
 <template>
   <div id="app">
-    <!-- Шапка остается всегда -->
-    <Header />
+    <Header v-if="showHeaderFooter"/>
     
-    <!-- Здесь будет меняться контент страницы -->
     <main class="main-content">
       <router-view />
     </main>
     
-    <!-- Если нужен подвал -->
     <footer class="footer">
-     <Footer />
+     <Footer v-if="showHeaderFooter"/>
     </footer>
   </div>
 </template>
@@ -24,6 +21,11 @@ export default {
   components: {
     Header,
     Footer
+  },
+  computed: {
+    showHeaderFooter() {
+      return this.$route.path !== '/auth';
+    }
   }
 }
 </script>
@@ -35,13 +37,4 @@ export default {
   box-sizing: border-box;
 }
 
-body {
-
-}
-
-.main-content {
-}
-
-.footer {
-}
 </style>
